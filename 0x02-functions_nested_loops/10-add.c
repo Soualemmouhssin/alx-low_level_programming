@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _add - check if charachter is lowercase
+ * add - check if charachter is lowercase
  * @a: The charachter to check
  * @b: Second integer
  *
@@ -9,5 +9,5 @@
  */
 int add(int a, int b)
 {
-	return (a+b) ;
+	return (a + b);
 }
