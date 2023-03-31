@@ -8,7 +8,7 @@
 int main(void)
 {
 
-	char str[] = "zyxwvutsrqponmlkjihgfedbca\n";
+	char str[] = "zyxwvutsrqponmlkjihgfedcba\n";
 	int i;
 
 	for (i = 0; i <= 27; i++)
