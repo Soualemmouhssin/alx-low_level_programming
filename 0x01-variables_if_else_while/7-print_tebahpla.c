@@ -8,10 +8,10 @@
 int main(void)
 {
 
-	char str[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ\n";
+	char str[] = "zyxwvutsrqponmlkjihgfedbca\n";
 	int i;
 
-	for (i = 0; i <= 52; i++)
+	for (i = 0; i <= 28; i++)
 	{
 		putchar(str[i]);
 	}
